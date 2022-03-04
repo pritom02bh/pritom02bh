@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritom Bhowmik</h1>
-<h3 align="center">I enjoy working with data and finding insight to solve a problem.</h3>
+<h3 align="center">I enjoy working with data and finding insight and patterns.</h3>
 
 
 
