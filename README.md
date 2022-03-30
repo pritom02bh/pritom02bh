@@ -13,7 +13,7 @@ Email: pritom01dev@gmail.com </h3>
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom02bh&show_icons=true&locale=en&layout=compact" alt="pritom02bh" /></p>
+                  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom02bh&show_icons=true&locale=en&layout=compact" alt="pritom02bh" /></p>
 
 
 
