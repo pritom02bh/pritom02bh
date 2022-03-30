@@ -3,7 +3,7 @@
 
 
 
-                                                         🔭 Data Professional
+                                                       🔭 DataProfessional
 
 
 <h3 align="center">Connect with me:
