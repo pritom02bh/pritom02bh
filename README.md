@@ -3,7 +3,7 @@
 
 
 
-                                           🔭 I’m currently researching on Production ML Pipelines
+                                           🔭 Data Professional
 
 
 <h3 align="center">Connect with me:
