@@ -6,7 +6,9 @@
                                            🔭 I’m currently researching on Production ML Pipelines
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+
+Email: pritom01dev@gmail.com </h3>
 <p align="left">
 </p>
 
