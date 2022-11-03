@@ -2,7 +2,9 @@
 <h3 align="center"> B.Tech. in Computer Science & Engineering </h3>
 
 
-                                                        🔭 Data Professional
+                        
+                        
+                        🔭 Data Professional
 
 
 
