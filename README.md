@@ -2,6 +2,7 @@
 <h3 align="center"> B.Tech. in Computer Science & Engineering </h3>
                                          
                          
+
                      
                         
                                                        🔭 Data Professional
@@ -13,9 +14,6 @@
 Email: pritom01dev@gmail.com </h3>
 <p align="center">
 </p>
-
-
-
 
 
 
