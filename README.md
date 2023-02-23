@@ -4,7 +4,7 @@
 
                      
                         
-                                                       🔭 Data Professional
+                                                        🔭 Data Professional
 
 
 
