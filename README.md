@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritom Bhowmik</h1>
 <h3 align="center"> B.Tech. in Computer Science & Engineering </h3>
-                                                     
+<h3 align="center"> Studying MS (Data Science) at Montclair State University </h3>                                                    
 
 
 
