@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:
  
   
-Email: pritom01dev@gmail.com </h3>
+Email: pritom01dev@gmail.com  &  bhowmikp1@montclair.edu </h3>
 <p align="center">
 </p>
 
