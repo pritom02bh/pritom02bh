@@ -1,6 +1,7 @@
-<h2 align="right">Pritom Bhowmik - Data Scientist</h2>
-<h4 align="right"> About Me: </h4>
-<h3 align="right"> Studying MS (Data Science) at Montclair State University </h3>                                                    
+<h2 align="left">Pritom Bhowmik - Data Scientist</h2>
+<h4 align="left"> About Me: </h4>
+<h3 align="left"> Studying MS (Data Science) at Montclair State University 
+</h3>
 
 
 
