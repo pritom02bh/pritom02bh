@@ -14,6 +14,7 @@
 - 📫 How to reach me **bhowmikp1@montclair.edu**
 
 - 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pritom02bh.github.io/assets/pdf/resume.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pritom02bh.github.io/assets/pdf/resume.pdf)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
