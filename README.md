@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pritom02bh.github.io/](https://pritom02bh.github.io/)
 
-- 💬 Ask me about **Generative AI | AI Application Development | Supply Chain Analytics & Finance.**
+- 💬 Ask me about **Generative AI | AI Application Development | Supply Chain Analytics & Finance**
 
 - 📫 How to reach me **bhowmikp1@montclair.edu**
 
