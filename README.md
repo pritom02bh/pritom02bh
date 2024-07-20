@@ -14,10 +14,6 @@
 - 📫 How to reach me **bhowmikp1@montclair.edu**
 
 - 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pritom02bh.github.io/assets/pdf/resume.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pritom02bh.github.io/assets/pdf/resume.pdf)
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pritom-bhowmik-870280194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritom-bhowmik-870280194/" height="30" width="40" /></a>
 </p>
 
 
