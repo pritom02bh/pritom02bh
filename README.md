@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritom02bh&label=Profile%20views&color=0e75b6&style=flat" alt="pritom02bh" /> </p>
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritom02bh" alt="pritom02bh" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Pluse Health Project**
