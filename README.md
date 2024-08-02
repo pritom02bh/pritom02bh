@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Pritom Bhowmik</h1>
-<h3 align="center">Graduate Student | AI Engineering Specialist</h3>
+<h3 align="center">Graduate Student | AI Engineering Specialist | Supply Chain Analytics Professional </h3>
 
 
 <p align="center">
