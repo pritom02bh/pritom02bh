@@ -23,7 +23,7 @@ Explore all my projects and achievements at [Pritom's Portfolio](https://pritom0
 Feel free to ask me about:
 - Generative AI
 - AI Application Development
-- Supply Chain Analytics & Finance
+- Supply Chain Analytics
 
 ### 📫 Contact Me
 You can reach me at: [bhowmikp1@montclair.edu](mailto:bhowmikp1@montclair.edu)
