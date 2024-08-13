@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Pritom Bhowmik</h1>
 <h3 align="center">Graduate Student | AI Engineering Specialist | Supply Chain Analytics Professional </h3>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritom02bh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
