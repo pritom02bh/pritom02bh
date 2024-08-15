@@ -11,7 +11,6 @@
 
 ---
 
-
 ### 👯 Collaboration Opportunities
 I'm currently looking to collaborate on the **Pluse Health Project**. If you have exciting opportunities, feel free to reach out!
 
