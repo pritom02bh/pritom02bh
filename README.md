@@ -8,8 +8,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pritom02bh" alt="GitHub Profile Trophies" />
   </a>
 </p>
-
-
 ---
 
 ### 👯 Collaboration Opportunities
