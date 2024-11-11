@@ -1,94 +1,24 @@
-<h1 align="center">Hi there! 👋 I'm Pritom Bhowmik</h1>
-<h3 align="center">AI & ML Developer | Supply Chain Analytics Professional </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritom02bh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pritom02bh" alt="GitHub Profile Trophies" />
-  </a>
-</p>
----
+# 💫 About Me:
+🔭 I’m currently working on AI Application tailored for the Supply Chain domain<br>👯 I’m looking to collaborate on the Data Science Lab at MSU<br>🌱 I’m currently learning AI technologies, focusing on Generative AI and Machine Learning and their applications in enhancing business processes and decision-making.<br>💬 Ask me about my projects & motivations<br>⚡ Fun fact: When I'm not optimizing supply chains, I'm conquering virtual worlds—gaming is my go-to for strategy and relaxation!
 
 
-### 👯 Collaboration Opportunities
-I'm currently looking to collaborate on the **Pluse Health Project**. If you have exciting opportunities, feel free to reach out!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritom-bhowmik-296285337) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pritombhowmik_1) 
 
-### 🌐 Portfolio
-Explore all my projects and achievements at [Pritom's Portfolio](https://pritom02bh.github.io/).
+# 💻 Tech Stack:
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pritom02bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pritom02bh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom02bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 💬 Areas of Expertise
-Feel free to ask me about:
-- Generative AI
-- AI Application Development
-- Supply Chain Analytics
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pritom02bh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 📫 Contact Me
-You can reach me at: [bhowmikp1@montclair.edu](mailto:bhowmikp1@montclair.edu)
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pritom02bh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pritom02bh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Languages & Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom02bh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom02bh&" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
