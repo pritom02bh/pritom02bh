@@ -2,6 +2,7 @@
 🔭 I’m currently working on AI Application tailored for the Supply Chain domain<br>👯 I’m looking to collaborate in the Data Science Lab at MSU<br>🌱 I’m currently learning AI technologies, focusing on Generative AI and Machine Learning and their applications in enhancing business processes and decision-making.<br>💬 Ask me about my projects & motivations<br>⚡ Fun fact: When I'm not optimizing supply chains, I'm conquering virtual worlds—gaming is my go-to for strategy and relaxation!
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritom-bhowmik-296285337) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pritombhowmik_1) 
 
