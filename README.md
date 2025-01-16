@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI Application tailored for the Supply Chain domain<br>👯 I’m looking to collaborate in the Data Science Lab at MSU<br>🌱 I’m currently learning AI technologies, focusing on Generative AI and Machine Learning and their applications in enhancing business processes and decision-making.<br>💬 Ask me about my projects & motivations<br>⚡ Fun fact: When I'm not optimizing supply chains, I'm conquering virtual worlds—gaming is my go-to for strategy and relaxation!
+🔭 I’m a data science expert with several years of experience in Analytics & Supply Chain <br>👯 MS (Data Science) at Montclair State University, NJ, USA<br>🌱 I’m currently learning AI technologies, focusing on Generative AI and Machine Learning and their applications in enhancing business processes and decision-making.<br>💬 Ask me about my projects & motivations<br>⚡ Fun fact: When I'm not optimizing supply chains, I'm conquering virtual worlds—gaming is my go-to for strategy and relaxation!
 
 
 ## 🌐 Socials:
