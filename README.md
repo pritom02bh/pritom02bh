@@ -3,7 +3,6 @@
 
 ### 🌐 Portfolio: https://pritom02bh.github.io
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritom-bhowmik-296285337) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pritombhowmik_1) 
 
