@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m a data science expert with several years of experience in Data Analytics & Supply Chain, Logistics & Healthcare  <br>👯 MS (Data Science) at Montclair State University, NJ, USA<br>🌱 I’m currently working with LLMs, AI technologies, focusing on Generative AI and Machine Learning and their applications in enhancing business processes and decision-making.<br>💬 Ask me about my projects & motivations<br>⚡ Fun fact: When I'm not optimizing supply chains, I'm conquering virtual worlds—gaming is my go-to for strategy and relaxation!
 
-
 ### 🌐 Portfolio: https://pritom02bh.github.io
 
 ## 🌐 Socials:
