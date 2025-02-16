@@ -18,6 +18,16 @@ I'm a data science professional with extensive experience in Data Analytics, spe
 
 ## Technical Expertise 💻
 
+### AI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-141619?style=for-the-badge&logo=llama&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=transformer&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00A0DC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-40AEF0?style=for-the-badge&logo=robot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4088?style=for-the-badge&logo=prompt&logoColor=white)
+
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
