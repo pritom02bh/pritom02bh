@@ -60,7 +60,7 @@ I'm a data science professional with extensive experience in Data Analytics, spe
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### GitHub Analytics 📊
+## GitHub Analytics 📊
 
 <div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom02bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
