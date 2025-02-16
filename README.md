@@ -63,13 +63,9 @@ I'm a data science professional with extensive experience in Data Analytics, spe
 ### GitHub Analytics 📊
 
 <div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom02bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom02bh&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom02bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
 #### Achievements 🏆
