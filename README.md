@@ -1,5 +1,5 @@
 # Pritom Bhowmik
-> Data Science Expert | Supply Chain Analytics | Healthcare Analytics
+> Data Science Expert | Supply Chain Analytics | 2.5 years in Data Analytics @ DeepAnalytica
 
 ### About Me 🚀
 
