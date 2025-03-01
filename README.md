@@ -10,7 +10,7 @@ I'm a data science professional with extensive experience in Data Analytics, spe
 - 🌱 Focused on implementing AI solutions for business optimization
 - 🎮 Fun fact: I unwind by playing strategy games, bringing tactical thinking from supply chain to virtual worlds!
 
-### Connect With Me 🤝
+### Connect with Me 🤝
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pritom02bh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritom-bhowmik-296285337)
