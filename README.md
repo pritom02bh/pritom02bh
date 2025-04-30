@@ -5,7 +5,7 @@
 
 I'm a data science professional with extensive experience in Data Analytics, specializing in Supply Chain and Healthcare domains. Currently pursuing my MS in Data Science at Montclair State University, NJ, I'm passionate about leveraging AI and ML to transform business processes.
 
-- 🔭 Specializing in Data Analytics, LLMs and Generative AI applications
+- 🔭 Specializing in Data Analytics, LLMs, and Generative AI applications
 - 👨‍🎓 MS Data Science candidate at Montclair State University
 - 🌱 Focused on implementing AI solutions for business optimization
 - 🎮 Fun fact: I unwind by playing strategy games, bringing tactical thinking from supply chain to virtual worlds!
