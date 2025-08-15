@@ -1,5 +1,5 @@
 # Pritom Bhowmik
-> Data Science Expert | 3+ years in Data Science, Business Analytics, and AI
+> Data Science Expert | 4+ years in Data Science, Business Analytics, and AI
 
 ### About Me 🚀
 
