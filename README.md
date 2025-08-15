@@ -44,19 +44,3 @@ I enjoy **strategy games**—the same tactical thinking I apply to AI-driven pro
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pritombhowmik_1)  
 
 ---
-
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom02bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom02bh&theme=dark&hide_border=false&layout=compact)  
-
-</div>
-
----
-
-## 🏆 Achievements  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pritom02bh&theme=radical&no-frame=true&margin-w=4)  
