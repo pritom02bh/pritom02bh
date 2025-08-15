@@ -4,7 +4,7 @@
 💡 Passionate about building **AI-powered products** and transforming **data into intelligent, actionable insights**.  
 I specialize in **LLMs, Generative AI, and Applied Machine Learning**, bridging the gap between **research, product, and real-world impact**.  
 
--
+--
 
 ## 🚀 Current Roles  
 - 🎓 **Data Science Instructor** – Monroe University, NYC  
