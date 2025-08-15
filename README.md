@@ -1,12 +1,12 @@
 # Pritom Bhowmik
-> Data Science Expert | Supply Chain Analytics | 3+ years in Data Analytics @ DeepAnalytica
+> Data Science Expert | 3+ years in Data Science, Business Analytics, and AI
 
 ### About Me 🚀
 
-I'm a data science professional with extensive experience in Data Analytics, specializing in Supply Chain and Healthcare domains. Currently pursuing my MS in Data Science at Montclair State University, NJ, I'm passionate about leveraging AI and ML to transform business processes.
+I’m a data science professional with extensive experience in data analytics, specializing in business, tech, and healthcare domains. I currently serve as a Data Science Instructor at Monroe University in New York City, a Product Manager at an early-stage AI startup, and a researcher in a data science lab.
 
 - 🔭 Specializing in Data Analytics, LLMs, and Generative AI applications
-- 👨‍🎓 MS Data Science at Montclair State University
+- 👨‍🎓 Teacher @ Monroe University
 - 🌱 Focused on implementing AI solutions for business optimization
 - 🎮 Fun fact: I unwind by playing strategy games, bringing tactical thinking from supply chain to virtual worlds!
 
