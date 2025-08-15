@@ -8,7 +8,7 @@ I specialize in **LLMs, Generative AI, and Applied Machine Learning**, bridging 
 ## 🚀 Current Roles  
 - 💼 **Data Science Instructor** – Monroe University, NYC  
 - 🚀 **Product Manager** – Early-stage AI Startup  
-- 🔬 **Researcher** – Data Science Lab (NLP, multimodal AI, applied ML)  
+- 🔬 **Researcher** – Data Science Lab (AI Agent, Agentic RAG, NLP, Multimodal AI, Applied ML)  
 
 ---
 
