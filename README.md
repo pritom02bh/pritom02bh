@@ -1,14 +1,25 @@
-# Pritom Bhowmik
-> Data Science Expert | 4+ years in Data Science, Business Analytics, and AI
+# Hi, I’m Pritom Bhowmik 👋  
+**AI & Data Science Professional | 4+ Years in AI, Analytics & Business Intelligence**  
 
-### About Me 🚀
+💡 I’m passionate about building **AI-powered products** and turning **data into intelligent decisions**.  
+With expertise in **LLMs, Generative AI, and Advanced Analytics**, I bridge the gap between **research, product, and real-world impact**.  
 
-I’m a data science professional with extensive experience in data analytics, specializing in business, tech, and healthcare domains. I currently serve as a Data Science Instructor at Monroe University in New York City, a Product Manager at an early-stage AI startup, and a researcher in a data science lab.
+## 🚀 Current Roles  
+- 🎓 **Data Science Instructor** @ Monroe University, NYC  
+- 🚀 **Product Manager** @ Early-stage AI Startup  
+- 🔬 **Researcher** @ Data Science Lab (NLP, multimodal AI, applied ML)  
 
-- 🔭 Specializing in Data Analytics, LLMs, and Generative AI applications
-- 👨‍🎓 Teacher @ Monroe University
-- 🌱 Focused on implementing AI solutions for business & product development optimization
-- 🎮 Fun fact: I unwind by playing strategy games, bringing tactical thinking from supply chain to virtual worlds!
+## 💼 What I Do  
+- 🤖 **AI Development** – Fine-tuning LLMs, building generative AI applications, integrating AI into business workflows  
+- 📊 **Data Science & Analytics** – Turning raw data into actionable strategies for business, tech, and healthcare domains  
+- 🧩 **Product Strategy** – Driving AI product roadmaps from concept to launch  
+
+## 🛠 Tech & Tools I Love  
+`Python` • `Pandas` • `PyTorch` • `TensorFlow` • `LangChain` • `OpenAI API` • `SQL` • `Power BI` • `Git`  
+
+## 🎮 Fun Fact  
+I enjoy **strategy games**—the same tactical thinking I apply in AI to outsmart business challenges, I also use to win virtual wars.  
+
 
 ### Connect with Me 🤝
 
