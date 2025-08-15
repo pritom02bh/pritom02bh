@@ -7,7 +7,7 @@ I’m a data science professional with extensive experience in data analytics, s
 
 - 🔭 Specializing in Data Analytics, LLMs, and Generative AI applications
 - 👨‍🎓 Teacher @ Monroe University
-- 🌱 Focused on implementing AI solutions for business optimization
+- 🌱 Focused on implementing AI solutions for business & product development optimization
 - 🎮 Fun fact: I unwind by playing strategy games, bringing tactical thinking from supply chain to virtual worlds!
 
 ### Connect with Me 🤝
