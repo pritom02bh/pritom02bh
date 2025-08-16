@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Pritom Bhowmik**  
-**AI & Data Science Professional | 4+ Years in AI, LLMs, and Advanced Analytics**  
+**AI & Data Science Professional | 3+ Years in AI, LLMs, and Advanced Analytics**  
 
 💡 Passionate about building **AI-powered products** and transforming **data into intelligent, actionable insights**.  
 I specialize in **LLMs, Generative AI, and Applied Machine Learning**, bridging the gap between **research, product, and real-world impact**.  
