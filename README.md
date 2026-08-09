@@ -12,7 +12,7 @@ I specialize in **LLMs, Generative AI, and Applied Machine Learning**, bridging 
 ---
 
 ## 💼 What I Do  
-- 🤖 **AI Development** – LLM fine-tuning, generative AI apps, AI-driven automation  
+- 🤖 **AI Development** – LLM fine-tuning, generative AI apps, AI-driven automation, Agentic AI
 - 📊 **Data Science & Analytics** – Data storytelling, predictive modeling, decision intelligence  
 - 🧩 **Product Strategy** – AI product roadmaps from ideation to launch  
 
