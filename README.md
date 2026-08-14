@@ -9,10 +9,10 @@
 
 ### 🧭 Where I Am Right Now
 
-- 🎓 On **OPT**, actively repositioning into **AI Engineering & Research** roles in the US market
+- 🎓 Actively repositioning into **AI Engineering & Research** 
 - 🔬 Deep in an independent research project on **memory security in LLM agents** (see below)
 - 🏫 **Former** Data Science Instructor — Monroe University, NYC
-- 🚀 **Product Manager** — Early-stage AI Startup
+- 🚀 **Former Product Manager** — Early-stage AI Startup
 - 📚 MS in Data Science, with prior experience teaching data science at the university level
 
 ---
