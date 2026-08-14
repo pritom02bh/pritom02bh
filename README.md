@@ -9,29 +9,21 @@
 
 ### 🧭 Where I Am Right Now
 
-- 🎓 Actively repositioning into **AI Engineering & Research** 
-- 🔬 Deep in an independent research project on **memory security in LLM agents** (see below)
+- 🔬 Researching **AI agent security** — memory attacks, defenses, and the trade-offs between them (see below)
+- 🎯 Actively repositioning into **AI Engineering & Research** roles
 - 🏫 **Former** Data Science Instructor — Monroe University, NYC
-- 🚀 **Former Product Manager** — Early-stage AI Startup
+- 🚀 **Product Manager** — Early-stage AI Startup
 - 📚 MS in Data Science, with prior experience teaching data science at the university level
 
 ---
 
-### 🔬 Current Research
+### 🔬 Current Research — Securing AI Agents: Memory, Attacks & Defenses
 
-**"The Price of Safety: Quantifying the Utility and Cost Overhead of Memory Defenses in LLM Agents"**
+Researching how LLM agents with long-term memory can be attacked, defended, and evaluated — and what safety actually costs in token overhead.
 
-Independent research covering both sides of long-term memory security in LLM agents — the **attacks** that target an agent's persistent memory and the **defenses** built to stop them — then asking what those defenses actually cost to run.
-
-- 🎯 **Attacks:** modeling memory poisoning and contamination scenarios designed to corrupt an agent's persistent memory across sessions
-- 🛡️ **Defenses:** evaluating memory-defense mechanisms against those attacks across memory backends, including a custom Mem0 integration
-- 🏗️ Built a full experimental harness from scratch: modular memory adapters, a metering proxy for token-level cost/latency tracking, and a multi-model evaluation pipeline
-- 🤖 Benchmarking across **4 agent backbones** (GPT, Claude, DeepSeek, Grok families) under identical attack/defense conditions
-- ⚖️ Dual **LLM-as-judge pipeline** with blinded payloads and cross-model calibration, targeting **Cohen's κ ≥ 0.8** against a hand-labeled gold set before scaling up
-- 📐 Cost measured in **token overhead** (not dollar cost) — isolating the compute/latency tax of defenses from pricing volatility
-- 📎 Emphasis on reproducibility: pinned model snapshots, temperature-0 judging, programmatic (regex/string) measurement for the security axis, and frozen outputs published as supplementary material
-
-This work sits at the intersection of **agent security, evaluation methodology, and LLM memory systems** — happy to connect with anyone working on similar problems.
+- 🎯 **Attacks** — modeling memory poisoning & contamination across agent sessions
+- 🛡️ **Defenses** — benchmarking memory-defense mechanisms (incl. a custom Mem0 integration) across **4 agent backbones**
+- ⚖️ **Evaluation** — dual LLM-as-judge pipeline calibrated to Cohen's κ ≥ 0.8, measuring cost in token overhead, not dollars
 
 ---
 
