@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer & Researcher | LLM Agents · Memory Systems · Applied ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A0DC&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+remember+responsibly;Researching+memory+defenses+in+LLM+agents;MS+Data+Science+%7C+Ex-University+Instructor;Open+to+AI+Engineering+%26+Research+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A0DC&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+remember+responsibly;Researching+memory+defenses+in+LLM+agents;MS+Data+Science+%7C+Ex-University+Instructor" alt="Typing SVG" />
 </p>
 
 ---
