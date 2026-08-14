@@ -21,12 +21,15 @@
 
 **"The Price of Safety: Quantifying the Utility and Cost Overhead of Memory Defenses in LLM Agents"**
 
-Independent research investigating a question that matters as agentic systems get long-term memory: *what does it actually cost — in utility, latency, and dollars — to defend an LLM agent's memory against contamination and manipulation?*
+Independent research covering both sides of long-term memory security in LLM agents — the **attacks** that target an agent's persistent memory and the **defenses** built to stop them — then asking what those defenses actually cost to run.
 
-- 🏗️ Built a full experimental harness from scratch: modular memory adapters (incl. a Mem0 integration), a metering proxy for cost/latency tracking, and a multi-model evaluation pipeline
-- 🤖 Benchmarking across **4 agent backbones** (GPT, Claude, DeepSeek, Grok families) under identical memory-defense conditions
+- 🎯 **Attacks:** modeling memory poisoning and contamination scenarios designed to corrupt an agent's persistent memory across sessions
+- 🛡️ **Defenses:** evaluating memory-defense mechanisms against those attacks across memory backends, including a custom Mem0 integration
+- 🏗️ Built a full experimental harness from scratch: modular memory adapters, a metering proxy for token-level cost/latency tracking, and a multi-model evaluation pipeline
+- 🤖 Benchmarking across **4 agent backbones** (GPT, Claude, DeepSeek, Grok families) under identical attack/defense conditions
 - ⚖️ Dual **LLM-as-judge pipeline** with blinded payloads and cross-model calibration, targeting **Cohen's κ ≥ 0.8** against a hand-labeled gold set before scaling up
-- 📐 Emphasis on reproducibility: pinned model snapshots, temperature-0 judging, programmatic (regex/string) measurement for the security axis, and frozen outputs published as supplementary material
+- 📐 Cost measured in **token overhead** (not dollar cost) — isolating the compute/latency tax of defenses from pricing volatility
+- 📎 Emphasis on reproducibility: pinned model snapshots, temperature-0 judging, programmatic (regex/string) measurement for the security axis, and frozen outputs published as supplementary material
 
 This work sits at the intersection of **agent security, evaluation methodology, and LLM memory systems** — happy to connect with anyone working on similar problems.
 
@@ -65,12 +68,7 @@ This work sits at the intersection of **agent security, evaluation methodology, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pritom02bh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom02bh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom02bh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom02bh&theme=tokyonight&hide_border=true&hide_streak=true&hide_rank=true&card_width=500" alt="Total Contributions" />
 </p>
 
 ---
