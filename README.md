@@ -57,14 +57,6 @@ Researching how LLM agents with long-term memory can be attacked, defended, and 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom02bh&theme=tokyonight&hide_border=true&hide_streak=true&hide_rank=true&card_width=500" alt="Total Contributions" />
-</p>
-
----
-
 ### 🎮 Fun Fact
 
 I enjoy **strategy games** — the same tactical, systems-level thinking I use to design agent evaluation pipelines helps me win virtual battles too.
