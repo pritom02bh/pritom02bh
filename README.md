@@ -57,11 +57,6 @@ Researching how LLM agents with long-term memory can be attacked, defended, and 
 
 ---
 
-### 🎮 Fun Fact
-
-I enjoy **strategy games** — the same tactical, systems-level thinking I use to design agent evaluation pipelines helps me win virtual battles too.
-
----
 
 ### 🤝 Connect With Me
 
