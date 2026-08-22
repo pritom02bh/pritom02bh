@@ -10,7 +10,6 @@
 ### 🧭 Where I Am Right Now
 
 - 🔬 Researching **AI agent security** — memory attacks, defenses, and the trade-offs between them (see below)
-- 🎯 Actively repositioning into **AI Engineering & Research** roles
 - 🏫 **Former** Information Technology Instructor — Monroe University, NYC
 - 🚀 **Former Product Manager** — Early-stage AI Startup
 - 📚 MS in Data Science, with prior experience teaching data science at the university level
