@@ -11,7 +11,7 @@
 
 - 🔬 Researching **AI agent security** — memory attacks, defenses, and the trade-offs between them (see below)
 - 🏫 **Former** Information Technology Instructor — Monroe University, NYC
-- 🚀 **Former Product Manager** — Early-stage AI Startup
+- 🚀 **Former Product Manager** — Early-stage AI Startup, NYC
 - 📚 MS in Data Science, with prior experience teaching data science at the university level
 
 ---
